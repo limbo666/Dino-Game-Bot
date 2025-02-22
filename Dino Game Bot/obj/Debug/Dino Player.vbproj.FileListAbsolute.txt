@@ -1,0 +1,24 @@
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.exe.config
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.exe
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.pdb
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.xml
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.AssemblyReference.cache
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino_Player.Form1.resources
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino_Player.Resources.resources
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.GenerateResource.cache
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.CoreCompileInputs.cache
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.exe
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.xml
+C:\Users\Nikos\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.pdb
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.exe.config
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.exe
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.pdb
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\bin\Debug\Dino Player.xml
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.AssemblyReference.cache
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino_Player.Form1.resources
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino_Player.Resources.resources
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.GenerateResource.cache
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.vbproj.CoreCompileInputs.cache
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.exe
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.xml
+D:\Drbx\Dropbox\.Common\Dino Player\Dino Player\Dino Player\obj\Debug\Dino Player.pdb
